@@ -2,26 +2,28 @@
 
 ## My Name
 
-Write your name.
+Tamanna Mohapatra
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+logical thinking, making decisions
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+easy and understanding
 
 ## My Career Goal
 
-Write the role you want to achieve.
+python developer
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means:writing instructions for a computer so it can perform a specific task.
 
-Python is:
+Python is:programmimg language
 
-In this track, I will learn:
+In this track, I will learn:Python basics
+Variables and data types, Input and output, Operators, Conditions (if, else), Loops (for
+while), Functions, Strings, Lists and other data structures, Problem-solving and writing small programs
