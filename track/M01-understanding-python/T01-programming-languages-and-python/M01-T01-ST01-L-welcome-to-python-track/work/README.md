@@ -27,3 +27,14 @@ Python is:programmimg language
 In this track, I will learn:Python basics
 Variables and data types, Input and output, Operators, Conditions (if, else), Loops (for
 while), Functions, Strings, Lists and other data structures, Problem-solving and writing small programs
+
+
+
+# Programming vs programming language 
+
+## What is Programming?
+
+
+## What Is a Programming Language?
+
+
